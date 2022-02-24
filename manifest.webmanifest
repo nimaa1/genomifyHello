@@ -1,0 +1,17 @@
+{
+  "name": "genomify PWA !",
+  "short_name": "GPWA!",
+  "description": "genomify Progressive Web App hosted on Github Page",
+  "scope": "/genomifyHello/",
+  "start_url": "/genomifyHello/",
+  "background_color": "#329148",
+  "theme_color": "#329148",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/genomifyHello/img/icon1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+  ]
+}
